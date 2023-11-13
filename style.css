@@ -12,6 +12,7 @@ body{
 header{
     padding: 20px 70px;
     background: #1d1d1f;
+    transition: .5s all;
 }
 .navigation{
     display: flex;
